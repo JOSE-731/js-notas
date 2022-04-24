@@ -19,3 +19,11 @@ var resultado = function(user, cpu){
 };
 
 resultado(op1,op3) //el usuario GANO con Piedra```
+
+
+//Operador terneario asi funciona el primero es verdadero y lo segundo falso
+condition ? true : false;
+
+//Ejemplo practico:
+var numero =1;
+var resultado = numero === 1 ? "Si soy uno" : "No soy";
